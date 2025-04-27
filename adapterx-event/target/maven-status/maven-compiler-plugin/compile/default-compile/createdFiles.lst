@@ -1,0 +1,7 @@
+com/csharma/adapterX/message/serializer/EventSerializer.class
+com/csharma/adapterX/message/event/Event.class
+com/csharma/adapterX/message/exception/SerializationException.class
+com/csharma/adapterX/message/event/EventEnvelope.class
+com/csharma/adapterX/message/serializer/JsonEventSerializer.class
+com/csharma/adapterX/message/event/BaseEvent.class
+com/csharma/adapterX/App.class
